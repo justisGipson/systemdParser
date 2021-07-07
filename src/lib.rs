@@ -1,6 +1,6 @@
-//! # Systemd Parser
-//!
-//! `systemd_parser` is a minimal parser for Systemd unit files.
+/// # Systemd Parser
+///
+/// `systemd_parser` is a minimal parser for Systemd unit files.
 extern crate pest;
 #[macro_use]
 extern crate pest_derive;
